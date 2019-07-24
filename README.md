@@ -25,3 +25,8 @@
 <p>3. Context of an activity (default string is <strong>this</strong>).</p>
 <h2>Output</h2>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/39652440/61815603-3f19d480-ae68-11e9-8360-4e2aeb276823.png" alt="" width="350" height="700" /></p>
+<h2>License</h2>
+<p>Copyright 2015 Sairamkrishna Mammahe</p>
+<p>Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at</p>
+<p>http://www.apache.org/licenses/LICENSE-2.0</p>
+<p>Unless required by applicable law or agreed to in writing, software under the License is distributed on an "AS IS" BASIS, WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. the License for the specific language governing permissions and under the License.</p>
