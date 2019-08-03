@@ -1,4 +1,4 @@
-<h2><strong>Formate Number LibPhoneNumber </strong></h2>
+<h2><strong>Format Number LibPhoneNumber </strong></h2>
 <p>Goal is to have something as similar to LibPhonenumber to format phone number based on country code</p>
 <h2><strong>Requirements</strong></h2>
 <p>Android 4.0 or higher&nbsp;</p>
